@@ -2,7 +2,7 @@
 This is the Python Code I learned in BISC 4503
 
 
-##Analyzing Patient Data
+## Analyzing Patient Data
 
 In this analysis, we looked at inflammation data for multiple patients.
 
